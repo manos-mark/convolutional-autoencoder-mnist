@@ -1,4 +1,4 @@
-# Convolutional autoencoder using MNIST for noise removal
+# Convolutional autoencoder using Siamese Neural Networks for noise removal
 
 1) Get MNIST dataset and split it in train / test
 
